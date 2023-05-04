@@ -14,3 +14,4 @@ Repositorio de la ficha
 ## Aprendices
 
 - [HERNANDEZ NIETO MAIYER DAVID](https://github.com/CarsOk/ADSO2698056/blob/8c70c158e0e87831594d8289282ebb9fb7685c71/hojas_vida/TI1041771410HERNANDEZMAIYER.md)
+- [RAFAEL FAJARDO DIAZ](https://vscode.dev/github/Fajardorafael/ADSO2698056/blob/74a47245acfe9cd2c006402b04ac326253e4732e/hojas_vida/TI1044615061FAJARDORAFAEL.md)
